@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px; /* Espaçamento entre a tabela e o conteúdo abaixo */
+}
+
+th, td {
+    padding: 8px;
+    border: 1px solid #ddd; /* Borda cinza */
+    text-align: left;
+}
